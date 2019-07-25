@@ -1,3 +1,5 @@
+# a final test after taking an online course in data analytics with pandas
+
 import pandas as pd
 
 # Q1
